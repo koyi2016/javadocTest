@@ -1,2 +1,1 @@
-# JenkinsDemo
-masterブランチにプッシュがある場合、自動テストを実施します。
+https://koyi2016.github.io/javadocTest/
